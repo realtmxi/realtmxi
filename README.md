@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Murphy Tian.
+- 👀 I’m interested in body building.
+- 🌱 I’m currently learning Computer Science Specialist in University of Toronto.
+- 📫 How to reach me: murphytian06@gmail.com
