@@ -4,11 +4,12 @@
 - 📫 How to reach me: murphytian06@gmail.com
 
 # Skills
-**Programming languages**
+- **Programming languages**
 
 Python, Java, C, SQL(Postgre), Git, Shell Script(Bash), R, LISP, Scheme
 
 HTML, CSS, JavaScript
-**Machine Learning Frameworks**
+
+- **Machine Learning Frameworks**
 
 Deep Learning in Computer Vision with PyTorch and TensorFlow
