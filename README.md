@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Murphy Tian.
-- 👀 I’m interested in working out in the gym.
-- 🌱 I’m currently learning Computer Science Specialist in University of Toronto.
-- 📫 How to reach me: murphytian06@gmail.com
+- Hi, I’m Murphy Tian.
+- I’m interested in working out in the gym.
+- I’m currently learning Computer Science Specialist in University of Toronto.
+- How to reach me: murphy.tian@mail.utoronto.ca
 
 # Skills
 **Programming languages**
