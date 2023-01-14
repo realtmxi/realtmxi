@@ -6,7 +6,9 @@
 # Skills
 **Programming languages**
 
-Python, Java, C, SQL(Postgre), Git, Shell Script(Bash), R, LISP, Scheme, HTML, CSS, JavaScript
+Python, Java, C, SQL(Postgre), Git, Shell Script(Bash), R
+HTML, CSS, JavaScript
+LISP, Scheme, Racket, Haskell
 
 **Machine Learning Frameworks**
 
