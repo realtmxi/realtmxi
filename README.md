@@ -7,13 +7,8 @@
 # Skills
 **Programming languages**
 
-Python, Java, C, SQL, Git, Shell Script, R
-
-HTML, CSS, JavaScript
-
-LISP, Scheme, Racket, Haskell
+Python, Java, C, SQL, Git, Shell Script, R, Racket, Haskell
 
 **Machine Learning Frameworks**
 
-Deep Learning in Computer Vision with PyTorch and TensorFlow
-Skilled in Numpy.
+Deep Learning in Computer Vision with PyTorch and TensorFlow.
