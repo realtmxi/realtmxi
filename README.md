@@ -12,5 +12,3 @@ Python, Java, C, SQL, Git, Shell Script, R, Racket, Haskell
 **Machine Learning Frameworks**
 
 Deep Learning in Computer Vision with PyTorch and TensorFlow.
-
-Numpy, Scikit-learn, Matplotlib 
