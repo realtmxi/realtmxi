@@ -7,7 +7,7 @@
 # Skills
 **Programming languages**
 
-Python, Java, C, C++, SQL, Git, Shell Script, R, Racket, Haskell, CSS, HTML, JavaScript
+Python, Java, C, SQL, Git, Shell Script, Racket, Haskell, CSS, HTML, JavaScript
 
 **Machine Learning Frameworks**
 
