@@ -7,8 +7,10 @@
 # Skills
 **Programming languages**
 Java, Python, C/C++, JavaScript/Typescript, HTML, CSS, SQL, Racket, Haskell, Prolog, Assembly
+
 **FrontEnd Frameworks**
 ReactJS, Vue.js, Angular.js
+
 **Back-End Technologies**
 Django, Node.js, Golang, PHP, Docker, Azure, Kubernetes, Git, bash
 
