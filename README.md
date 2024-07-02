@@ -8,7 +8,7 @@
 **Programming languages**
 Java, Python, C/C++, JavaScript/Typescript, HTML, CSS, SQL, Racket, Haskell, Prolog, Assembly
 
-**FrontEnd Frameworks**
+**Front-End Frameworks**
 ReactJS, Vue.js, Angular.js
 
 **Back-End Technologies**
