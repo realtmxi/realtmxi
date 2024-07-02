@@ -14,8 +14,6 @@ ReactJS, Vue.js, Angular.js
 **Back-End Technologies**
 Django, Node.js, Golang, PHP, Docker, Azure, Kubernetes, Git, bash
 
-Python, Java, C, SQL, Git, Shell Script, Racket, Haskell, CSS, HTML, JavaScript, TypeScript, C++, HTML, CSS, Prolog
-
 **Machine Learning Frameworks**
 
 PyTorch, TensorFlow.
