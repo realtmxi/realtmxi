@@ -6,7 +6,7 @@
 
 # Skills
 **Programming languages**
-Java, Python, C/C++, JavaScript/Typescript, HTML, CSS, SQL, Racket, Haskell, Prolog, Assembly
+Java, Python, C/C++, JavaScript/Typescript, Swift, Objective-C, HTML, CSS, SQL, Racket, Haskell, Prolog, Assembly
 
 **Front-End Frameworks**
 ReactJS, Vue.js, Angular.js
