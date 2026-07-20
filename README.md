@@ -3,4 +3,4 @@
 - My primary research interests are centered around AI Infra. Feel free to reach out me to explore potential research opportunities.
 - How to reach me: murphytian06@gmail.com
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=realtmxi)](https://github.com/anuraghazra/github-readme-stats)
+[![Murphy's GitHub stats](https://github-stats-extended.vercel.app/api?username=realtmxi)](https://github.com/stats-organization/github-stats-extended)
